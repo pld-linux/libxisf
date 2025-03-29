@@ -1,13 +1,13 @@
 Summary:	C++ library to read and write XISF files produced by PixInsight
 Summary(pl.UTF-8):	Bibliotek C++ do odczytu i zapisu plików XISF tworzonych przez PixInsight
 Name:		libxisf
-Version:	0.2.12
+Version:	0.2.13
 Release:	1
 License:	GPL v3+
 Group:		Libraries
 #Source0Download: https://gitea.nouspiro.space/nou/libXISF/tags
 Source0:	https://gitea.nouspiro.space/nou/libXISF/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
-# Source0-md5:	c6563c91f215495f53a460caf648b3df
+# Source0-md5:	ff7dd5251bf630d14b28770604ecde3b
 URL:		https://nouspiro.space/?page_id=306
 BuildRequires:	cmake >= 3.14
 BuildRequires:	libstdc++-devel >= 6:7
